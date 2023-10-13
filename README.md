@@ -1,5 +1,5 @@
 
-# Falmes 
+# Flames 
 
 This a small games which was played in our child hood days.
 
