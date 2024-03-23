@@ -44,6 +44,6 @@ else :
 The Relationship is : ''',list2)
 
 print('''
-Copyright Desrves To Ajay Ganesh.
+Copyright Desrves To Tejeswar GV.
 
 This Is For Joke Only Dont Try To Take It Serious And In Serious Dont Call To Python Owner ☠️☠️☠️☠️☠ .''')
